@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "fileName": "KeyboardHook.dll",
+  "fileName": "FilesToSend.dll",
   "functionName": "Initialize",
   "autoRun": true
 }
